@@ -2,7 +2,8 @@
 Интересуюсь аналитикой, и для портфолио решила создать аккаунт здесь.
 - 👀 Планирую публиковать мои небольшие наработки и проекты
 
-<!---
-dariapir/dariapir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###  Список:
+| Название | Инструменты |
+| :--------: | :-------: |
+|[Создание и работа с БД отеля](https://github.com/dariapir/sql/tree/main/booking_database) |<img src="https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5&logoColor=red"/><img src="https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=blue"/>|
+|[Работы на курсе SQL](https://github.com/dariapir/sql/tree/main/firstcoursesql) |<img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white"/>|
