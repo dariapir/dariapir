@@ -5,5 +5,6 @@
 ###  Список:
 | Название | Инструменты |
 | :--------: | :-------: |
-|[Создание и работа с БД отеля](https://github.com/dariapir/sql/tree/main/booking_database) |<img src="https://img.shields.io/badge/MSSQL-black?style=flat-square"/> <img src="https://img.shields.io/badge/PowerBi-black?style=flat-square"/>|
-|[Работы на курсе SQL](https://github.com/dariapir/sql/tree/main/firstcoursesql) |<img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white"/>|
+|[Создание и работа с БД отеля](https://github.com/dariapir/projects/tree/main/booking_database) |<img src="https://img.shields.io/badge/MSSQL-black?style=flat-square"/> <img src="https://img.shields.io/badge/PowerBi-black?style=flat-square"/>|
+|[Работы на курсе SQL](https://github.com/dariapir/projects/tree/main/firstcoursesql) |<img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white"/>
+|[Конфигурация 1С:Отель](https://github.com/dariapir/projects/tree/main/1с) |<img src="https://img.shields.io/badge/1С-yellow?style=flat-square"/>||
